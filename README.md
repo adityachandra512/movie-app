@@ -124,8 +124,8 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/movie-database.git
-    cd movie-database
+    https://github.com/adityachandra512/movie-app.git
+    cd movie-app
     ```
 
 2. Install dependencies:
